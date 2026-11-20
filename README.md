@@ -79,3 +79,14 @@ The application relies on the following protobuf files located in the `com.commo
 *   `MessageRequest.proto`: Defines the message request structure with a single field `message` of type string.
 *   `MessageResponse.proto`: Defines the message response structure with a single field `reply` of type string.
 
+Feel free to modify these files to suit your application's needs.
+
+License
+-------
+
+This project is licensed under the MIT License. Feel free to modify and use the code for your own purposes.
+
+if it helps Follow me
+- youtube @iamthatsoftwareguy
+- insta @abhinavsinghvirsen
+- facebook @iamthatsoftwareguy
